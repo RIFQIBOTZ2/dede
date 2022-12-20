@@ -2,7 +2,7 @@ let fs = require('fs')
 let chalk = require('chalk')
 
 global.namaowner = `rifki`
-global.namabot = `dede
+global.namabot = `dede`
 global.thumb = 'https://telegra.ph/file/18fc8460eaa6936122f3f.jpg'
 
 owner = [
